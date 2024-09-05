@@ -57,3 +57,5 @@ public class Jogador {
         return oponente.getTabuleiro().receberAtaque(linha, coluna);
     }
 }
+//aaaaaa
+//dsadsad
